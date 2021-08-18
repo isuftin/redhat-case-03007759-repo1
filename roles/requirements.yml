@@ -1,0 +1,4 @@
+roles:    
+  - src: git+https://github.com/isuftin/redhat-case-03007759-repo2.git
+    version: main
+    name: secondary_role
